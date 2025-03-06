@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "52VZYK9659.ImoxDigital.CondoApp",
-            "52VZYK9659.ImoxDigital.CondoApp.QA",
-            "52VZYK9659.ImoxDigital.CondoApp.Dev"
+            "9J5PADP939.com.ly.AutoPassword-iOS13",
+            "9J5PADP939.com.ly.AutoPassword-iOS13.QA",
+            "9J5PADP939.com.ly.AutoPassword-iOS13.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "52VZYK9659.ImoxDigital.CondoApp",
-            "52VZYK9659.ImoxDigital.CondoApp.QA",
-            "52VZYK9659.ImoxDigital.CondoApp.Dev"
+            "9J5PADP939.com.ly.AutoPassword-iOS13",
+            "9J5PADP939.com.ly.AutoPassword-iOS13.QA",
+            "9J5PADP939.com.ly.AutoPassword-iOS13.Dev"
         ],
         "details": [
             {
-                "appID": "52VZYK9659.ImoxDigital.CondoApp",
+                "appID": "9J5PADP939.com.ly.AutoPassword-iOS13",
                 "paths": [
                     "*"
                 ]
