@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "9J5PADP939.com.ly.AutoPassword-iOS13",
-            "9J5PADP939.com.ly.AutoPassword-iOS13.QA",
-            "9J5PADP939.com.ly.AutoPassword-iOS13.Dev"
+            "4F7SW76LL6.com.di.AutoPassword-iOS12",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "9J5PADP939.com.ly.AutoPassword-iOS13",
-            "9J5PADP939.com.ly.AutoPassword-iOS13.QA",
-            "9J5PADP939.com.ly.AutoPassword-iOS13.Dev"
+            "4F7SW76LL6.com.di.AutoPassword-iOS12",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.QA",
+            "4F7SW76LL6.com.di.AutoPassword-iOS12.Dev"
         ],
         "details": [
             {
-                "appID": "9J5PADP939.com.ly.AutoPassword-iOS13",
+                "appID": "4F7SW76LL6.com.di.AutoPassword-iOS12",
                 "paths": [
                     "*"
                 ]
