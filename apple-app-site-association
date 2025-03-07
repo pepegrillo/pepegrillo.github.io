@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "52VZYK9659.ImoxDigital.CondoApp",
+        "appID": "A7QSXSXY43.ImoxDigital.CondoApp",
         "paths": [  "*" ]
       }
     ]
   },
   "webcredentials": {
-    "apps": [ "52VZYK9659.ImoxDigital.CondoApp" ]
+    "apps": [ "A7QSXSXY43.ImoxDigital.CondoApp" ]
   }
 }
