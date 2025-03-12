@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "M546YTH4A6.InoxDigital.DondoApp",
-            "M546YTH4A6.InoxDigital.DondoApp.QA",
-            "M546YTH4A6.InoxDigital.DondoApp.Dev"
+            "52VZYK9659.ImoxDigital.CondoApp",
+            "52VZYK9659.ImoxDigital.CondoApp.QA",
+            "52VZYK9659.ImoxDigital.CondoApp.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "M546YTH4A6.InoxDigital.DondoApp",
-            "M546YTH4A6.InoxDigital.DondoApp.QA",
-            "M546YTH4A6.InoxDigital.DondoApp.Dev"
+            "52VZYK9659.ImoxDigital.CondoApp",
+            "52VZYK9659.ImoxDigital.CondoApp.QA",
+            "52VZYK9659.ImoxDigital.CondoApp.Dev"
         ],
         "details": [
             {
-                "appID": "M546YTH4A6.InoxDigital.DondoApp",
+                "appID": "52VZYK9659.ImoxDigital.CondoApp",
                 "paths": [
                     "*"
                 ]
