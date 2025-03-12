@@ -1,20 +1,20 @@
 {
     "webcredentials": {
         "apps": [
-            "M546YTH4A6.com.di.AutoP-iOS1213",
-            "M546YTH4A6.com.di.AutoP-iOS1213.QA",
-            "M546YTH4A6.com.di.AutoP-iOS1213.Dev"
+            "M546YTH4A6.InoxDigital.DondoApp",
+            "M546YTH4A6.InoxDigital.DondoApp.QA",
+            "M546YTH4A6.InoxDigital.DondoApp.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "M546YTH4A6.com.di.AutoP-iOS1213",
-            "M546YTH4A6.com.di.AutoP-iOS1213.QA",
-            "M546YTH4A6.com.di.AutoP-iOS1213.Dev"
+            "M546YTH4A6.InoxDigital.DondoApp",
+            "M546YTH4A6.InoxDigital.DondoApp.QA",
+            "M546YTH4A6.InoxDigital.DondoApp.Dev"
         ],
         "details": [
             {
-                "appID": "M546YTH4A6.com.di.AutoP-iOS1213",
+                "appID": "M546YTH4A6.InoxDigital.DondoApp",
                 "paths": [
                     "*"
                 ]
