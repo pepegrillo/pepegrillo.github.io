@@ -1,12 +1,16 @@
 {
     "webcredentials": {
         "apps": [
-            "M546YTH4A6.com.di.AutoP-iOS1213"
+            "M546YTH4A6.com.di.AutoP-iOS1213",
+            "M546YTH4A6.com.di.AutoP-iOS1213.QA",
+            "M546YTH4A6.com.di.AutoP-iOS1213.Dev"
         ]
     },
     "applinks": {
         "apps": [
-            "M546YTH4A6.com.di.AutoP-iOS1213"
+            "M546YTH4A6.com.di.AutoP-iOS1213",
+            "M546YTH4A6.com.di.AutoP-iOS1213.QA",
+            "M546YTH4A6.com.di.AutoP-iOS1213.Dev"
         ],
         "details": [
             {
